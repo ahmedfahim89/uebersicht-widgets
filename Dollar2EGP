@@ -1,0 +1,10 @@
+command: "curl -s 'http://thedomain.uphero.com/'"
+
+refreshFrequency: 600000
+
+style: """
+  top: 100px
+  left: 20px
+  color: #fff
+  font-family: Helvetica Neue
+"""
